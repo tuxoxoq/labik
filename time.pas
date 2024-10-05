@@ -12,4 +12,5 @@
       exit;
     end;
   if (year mod 4)= 0 then print('Високосный')
+  else print('не високосный');
 end.
